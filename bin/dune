@@ -1,0 +1,4 @@
+(executable
+ (public_name web3_terminal)
+ (name main)
+ (libraries web3_terminal))

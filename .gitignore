@@ -1,0 +1,10 @@
+# Dune build files
+_build/
+*.install
+*.opam.locked
+*.opam
+*.merlin
+
+# OS files
+.DS_Store
+Thumbs.db
