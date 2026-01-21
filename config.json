@@ -1,0 +1,4 @@
+{
+  "rpc_url": "https://goerli.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+  "wallet_address": "0xYOUR_WALLET_ADDRESS"
+}
